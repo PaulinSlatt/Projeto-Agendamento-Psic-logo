@@ -28,10 +28,17 @@ Este é um sistema simples de gerenciamento de consultas médicas em Python. O s
 - **Listagem de Consultas:**
   - Pacientes podem listar suas consultas agendadas e visualizar o histórico de consultas realizadas.
 
-## Como Executar
+## Requisitos e Como Executar
 
-1. Clone o repositório:
+1. **Requisitos:**
+   - Certifique-se de ter o Python 3.x instalado.
 
-   ```bash
-   git clone https://github.com/sPaulinSlatt/Projeto-Agendamento-Psicologo.git
-
+2. **Execução:**
+   - Clone o repositório:
+     ```bash
+     git clone https://github.com/sPaulinSlatt/Projeto-Agendamento-Psicologo.git
+     ```
+   - Navegue até o diretório do projeto e execute:
+     ```bash
+     python nome-do-arquivo.py
+     ```
