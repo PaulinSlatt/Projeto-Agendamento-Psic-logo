@@ -2,6 +2,12 @@
 
 Este é um sistema simples de gerenciamento de consultas médicas em Python. O sistema permite o cadastro de profissionais de saúde e pacientes, agendamento de consultas, rastreamento de histórico de consultas e histórico de humor do paciente.
 
+## Membros do Grupo
+
+- **Paulo Sérgio Caetano (RM123456):** Desenvolvedor principal.
+- **Sabrina Couto (RM789012):** Analista de requisitos.
+- **Thais Ribeiro (RM345678):** Analista de requisitos.
+
 ## Funcionalidades
 
 - **Cadastro de Usuários:**
@@ -42,3 +48,8 @@ Este é um sistema simples de gerenciamento de consultas médicas em Python. O s
      ```bash
      python nome-do-arquivo.py
      ```
+
+## Vídeo do Projeto
+
+[Link para o vídeo no YouTube](https://www.youtube.com/)
+
