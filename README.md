@@ -51,5 +51,5 @@ Este é um sistema simples de gerenciamento de consultas médicas em Python. O s
 
 ## Vídeo do Projeto
 
-[Link para o vídeo no YouTube](https://www.youtube.com/)
+[Link para o vídeo no YouTube](https://youtu.be/YI55Tnbe270)
 
